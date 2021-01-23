@@ -2,7 +2,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Malaria_fastAI_detector
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OpIIpDUA-M9QD-PExdYzXY3FJ8qG3l9i)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OpIIpDUA-M9QD-PExdYzXY3FJ8qG3l9i?usp=sharing)
 
 Notebook of a fastAI implementation of a Malaria detector.
 
