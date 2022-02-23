@@ -6,7 +6,7 @@
 
 Notebook of a fastAI implementation of a Malaria detector.
 
-![Coloring result][product-screenshot]
+![main_image][product-screenshot]
 
 ## Description
 Malaria is a mosquito-borne infectious disease that affects humans, which can cause coma or death in several cases if it is not properly treated. Approximately 93% of the cases and 94% of deaths occurred in Africa, where the healthcare system is very deficient due to the lack of resources.
@@ -29,6 +29,7 @@ For working with this notebook, clone repo and execute it in your favourite Note
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: images/data_input.png
 [linkedin-url]: https://linkedin.com/daniel-verdu-torres
+[main_image]: images/data_input.PNG
 
 [made-love-shield]: https://img.shields.io/badge/-Made%20with%20love%20❤️-orange.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/badge/License-GNU-brightgreen.svg?style=for-the-badge
